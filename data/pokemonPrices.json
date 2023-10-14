@@ -1,0 +1,152 @@
+[
+    {
+      "name": "Charmander",
+      "priceInCents": 25,
+      "description": "A fire-type Pokémon with a flame at the end of its tail.",
+      "rare": false
+    },
+    {
+      "name": "Squirtle",
+      "priceInCents": 22,
+      "description": "A water-type Pokémon with a turtle shell on its back.",
+      "rare": false
+    },
+    {
+      "name": "Machamp",
+      "priceInCents": 90,
+      "description": "A powerful fighting-type Pokémon with four muscular arms.",
+      "rare": false
+    },
+    {
+      "name": "Victreebel",
+      "priceInCents": 70,
+      "description": "A grass/poison-type Pokémon with large, toothy leaves.",
+      "rare": false
+    },
+    {
+      "name": "Raichu",
+      "priceInCents": 40,
+      "description": "An electric-type Pokémon and the evolved form of Pikachu.",
+      "rare": false
+    },
+    {
+      "name": "Nidoking",
+      "priceInCents": 90,
+      "description": "A powerful poison/ground-type Pokémon with a fearsome appearance.",
+      "rare": false
+    },
+    {
+      "name": "Golem",
+      "priceInCents": 100,
+      "description": "A rock/ground-type Pokémon with a hard shell.",
+      "rare": false
+    },
+    {
+      "name": "Mew",
+      "priceInCents": 200,
+      "description": "A mythical psychic-type Pokémon known for its cute appearance.",
+      "rare": true
+    },
+    {
+      "name": "Venusaur",
+      "priceInCents": 120,
+      "description": "The evolved form of Bulbasaur, a large, dinosaur-like Pokémon.",
+      "rare": false
+    },
+    {
+      "name": "Blastoise",
+      "priceInCents": 110,
+      "description": "The evolved form of Squirtle, a powerful water-type Pokémon with cannons on its back.",
+      "rare": false
+    },
+    {
+      "name": "Alakazam",
+      "priceInCents": 100,
+      "description": "A psychic-type Pokémon known for its high intelligence and spoons.",
+      "rare": false
+    },
+    {
+      "name": "Dragonite",
+      "priceInCents": 150,
+      "description": "A dragon/flying-type Pokémon with a friendly demeanor.",
+      "rare": false
+    },
+    {
+      "name": "Gengar",
+      "priceInCents": 80,
+      "description": "A ghost/poison-type Pokémon with a mischievous grin.",
+      "rare": false
+    },
+    {
+      "name": "Articuno",
+      "priceInCents": 140,
+      "description": "A legendary ice/flying-type bird Pokémon with icy plumage.",
+      "rare": true
+    },
+    {
+      "name": "Zapdos",
+      "priceInCents": 140,
+      "description": "A legendary electric/flying-type bird Pokémon with powerful electrical abilities.",
+      "rare": true
+    },
+    {
+      "name": "Moltres",
+      "priceInCents": 140,
+      "description": "A legendary fire/flying-type bird Pokémon with flames that never go out.",
+      "rare": true
+    },
+    {
+      "name": "Pikachu",
+      "priceInCents": 30,
+      "description": "An electric-type Pokémon and the mascot of the Pokémon franchise.",
+      "rare": false
+    },
+    {
+      "name": "Jigglypuff",
+      "priceInCents": 35,
+      "description": "A normal/fairy-type Pokémon known for its ability to put others to sleep by singing.",
+      "rare": false
+    },
+    {
+      "name": "Meowth",
+      "priceInCents": 38,
+      "description": "A normal-type Pokémon known for its coin-like charm and love for currency.",
+      "rare": false
+    },
+    {
+      "name": "Psyduck",
+      "priceInCents": 33,
+      "description": "A water-type Pokémon with a constant headache that triggers powerful psychic abilities.",
+      "rare": false
+    },
+    {
+      "name": "Growlithe",
+      "priceInCents": 45,
+      "description": "A fire-type Pokémon resembling a small, loyal dog.",
+      "rare": false
+    },
+    {
+      "name": "Abra",
+      "priceInCents": 42,
+      "description": "A psychic-type Pokémon with the ability to teleport away from danger.",
+      "rare": false
+    },
+    {
+      "name": "Tentacool",
+      "priceInCents": 25,
+      "description": "A water/poison-type Pokémon with tentacles that can be toxic.",
+      "rare": false
+    },
+    {
+      "name": "Geodude",
+      "priceInCents": 28,
+      "description": "A rock/ground-type Pokémon with a rocky appearance.",
+      "rare": false
+    },
+    {
+      "name": "Exeggutor",
+      "priceInCents": 85,
+      "description": "A grass/psychic-type Pokémon with a trio of heads.",
+      "rare": false
+    }
+  ]
