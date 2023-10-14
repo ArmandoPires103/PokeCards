@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Pikachu",
+    "id": "36qC",
+    "priceInCents": 30,
+    "description": "An electric-type Pokémon and the mascot of the Pokémon franchise.",
+    "rare": false
+  },
+  {
+    "name": "Machamp",
+    "id": "OGrN",
+    "priceInCents": 90,
+    "description": "A powerful fighting-type Pokémon with four muscular arms.",
+    "rare": false
+  }
+]
