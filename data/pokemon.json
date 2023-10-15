@@ -12,5 +12,12 @@
     "priceInCents": 90,
     "description": "A powerful fighting-type Pokémon with four muscular arms.",
     "rare": false
+  },
+  {
+    "name": "Moltres",
+    "id": "dQhb",
+    "priceInCents": 140,
+    "description": "A legendary fire/flying-type bird Pokémon with flames that never go out.",
+    "rare": true
   }
 ]
