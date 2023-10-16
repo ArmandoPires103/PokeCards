@@ -42,6 +42,7 @@ npm run update OGrN "Bulbasaur"
 
 ## Destroy <a href="https://pokemondb.net/pokedex/espeon"><img src="https://img.pokemondb.net/sprites/black-white/anim/normal/espeon.gif" alt="Espeon"></a>
 - User can delete specific item from the cart with unique ID.
+- User can delete all items in cart.
 
 >Use `npm run destroy <pokemon-id>` to delete item from cart.
 ```
