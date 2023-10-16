@@ -46,3 +46,11 @@ npm run update OGrN "Bulbasaur"
 ```
 npm run destroy OGrN
 ```
+## Getting Started
+
+1. Clone the repo to your local machine.
+2. Install by using `npm install`.
+3. Start the application with `npm start`.
+
+
+<a href="https://pokemondb.net/pokedex/bulbasaur"><img src="https://img.pokemondb.net/sprites/black-white/anim/normal/bulbasaur.gif" alt="Bulbasaur"></a>
