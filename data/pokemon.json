@@ -33,5 +33,12 @@
     "priceInCents": 90,
     "description": "A powerful fighting-type Pokémon with four muscular arms.",
     "rare": false
+  },
+  {
+    "name": "Machamp",
+    "id": "6EaW",
+    "priceInCents": 90,
+    "description": "A powerful fighting-type Pokémon with four muscular arms.",
+    "rare": false
   }
 ]
