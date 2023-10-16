@@ -47,6 +47,10 @@ npm run update OGrN "Bulbasaur"
 ```
 npm run destroy OGrN
 ```
+>Use `npm run destroy all` to delete every item in cart.
+```
+npm run destroy all
+```
 ## Getting Started <a href="https://pokemondb.net/pokedex/bulbasaur"><img src="https://img.pokemondb.net/sprites/black-white/anim/normal/bulbasaur.gif" alt="Bulbasaur"></a>
 
 1. Clone the repo to your local machine.
