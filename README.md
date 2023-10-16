@@ -1,7 +1,7 @@
 # Pokémon Card Emporium
 Welcome to the Pokémon Card Emporium, your one-stop destination for collecting and managing your favorite Pokémon cards. This application offers features that allows you to create, view, update, and delete items in you're cart in order to find rare cards.
 
-![Jigglypuff](http://img.pokemondb.net/sprites/black-white/anim/normal/jigglypuff.gif) ![Gengar](http://img.pokemondb.net/sprites/black-white/anim/normal/gengar.gif) ![Electrode](http://img.pokemondb.net/sprites/black-white/anim/normal/electrode.gif) ![Eevee](http://img.pokemondb.net/sprites/black-white/anim/normal/eevee.gif) ![Snorlax](http://img.pokemondb.net/sprites/black-white/anim/normal/snorlax.gif) ![Pikachu](<a href="https://pokemondb.net/pokedex/pikachu"><img src="https://img.pokemondb.net/sprites/black-white/anim/normal/pikachu-f.gif" alt="Pikachu"></a>)
+![Jigglypuff](http://img.pokemondb.net/sprites/black-white/anim/normal/jigglypuff.gif) ![Gengar](http://img.pokemondb.net/sprites/black-white/anim/normal/gengar.gif) ![Electrode](http://img.pokemondb.net/sprites/black-white/anim/normal/electrode.gif) ![Eevee](http://img.pokemondb.net/sprites/black-white/anim/normal/eevee.gif) ![Snorlax](http://img.pokemondb.net/sprites/black-white/anim/normal/snorlax.gif) <a href="https://pokemondb.net/pokedex/pikachu"><img src="https://img.pokemondb.net/sprites/black-white/anim/normal/pikachu-f.gif" alt="Pikachu"></a>
 
 # Features
 
