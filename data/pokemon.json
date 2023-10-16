@@ -1,42 +1,14 @@
 [
   {
     "name": "Pikachu",
-    "id": "36qC",
+    "id": "M0wB",
     "priceInCents": 30,
     "description": "An electric-type Pokémon and the mascot of the Pokémon franchise.",
     "rare": false
   },
   {
-    "name": "Bulbasaur",
-    "id": "OGrN",
-    "priceInCents": 10,
-    "description": "",
-    "rare": false
-  },
-  {
-    "name": "Moltres",
-    "id": "dQhb",
-    "priceInCents": 140,
-    "description": "A legendary fire/flying-type bird Pokémon with flames that never go out.",
-    "rare": true
-  },
-  {
-    "name": "Squirtle",
-    "id": "CX1E",
-    "priceInCents": 22,
-    "description": "A water-type Pokémon with a turtle shell on its back.",
-    "rare": false
-  },
-  {
     "name": "Machamp",
-    "id": "JjO5",
-    "priceInCents": 90,
-    "description": "A powerful fighting-type Pokémon with four muscular arms.",
-    "rare": false
-  },
-  {
-    "name": "Machamp",
-    "id": "6EaW",
+    "id": "SnGK",
     "priceInCents": 90,
     "description": "A powerful fighting-type Pokémon with four muscular arms.",
     "rare": false

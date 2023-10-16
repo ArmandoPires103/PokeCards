@@ -42,6 +42,10 @@ function show(pokemonCards, pokemonId) {
 }
 
 function destroy(pokemonCards, pokemonId) {
+// DELETES ALL ITEMS IN CART. MADE A EMPTY ARRAY.
+    if (pokemonId === "all"){
+        return pokemonCards = []
+    }
 // FINDINDEX METHOD TO SEARCH FOR POKEMON IN POKEMONCARDS, THE CONDITION IS IF ID MATCH PROVIDED ID
   const index = pokemonCards.findIndex((pokemon) => pokemon.id === pokemonId);
 // IF THE INDEX IS GREATER THAN -1, IT MEANS THE POKEMON WITH SPECIFIED ID WAS FOUND IN THE ARRAY
