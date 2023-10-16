@@ -5,7 +5,7 @@ Welcome to the Pokémon Card Emporium, your one-stop destination for collecting 
 
 # Features
 
-## Create 
+## Create <a href="https://pokemondb.net/pokedex/charmander"><img src="https://img.pokemondb.net/sprites/black-white/anim/normal/charmander.gif" alt="Charmander"></a>
 - User can create a new item and add to cart.
 - Each item created is made with a unique ID, ensuring great management.
 
@@ -15,7 +15,7 @@ npm run create "Pikachu"
 npm run create "Machamp"
 ```
 
-## Index 
+## Index <a href="https://pokemondb.net/pokedex/squirtle"><img src="https://img.pokemondb.net/sprites/black-white/anim/normal/squirtle.gif" alt="Squirtle"></a>
 - User can list all the items in the cart.
 - The item with show name, id, Price in dollars and description.
 
@@ -24,7 +24,7 @@ npm run create "Machamp"
 npm run index
 ```
 
-## Show
+## Show <a href="https://pokemondb.net/pokedex/charizard"><img src="https://img.pokemondb.net/sprites/black-white/anim/normal/charizard.gif" alt="Charizard"></a>
 - User can search up item with the items id.
 - User can look-up release date and if the item in cart is rare.
 
@@ -32,7 +32,7 @@ npm run index
 ```
 npm run show OGrN
 ```
-## Update
+## Update <a href="https://pokemondb.net/pokedex/blastoise"><img src="https://img.pokemondb.net/sprites/black-white/anim/normal/blastoise.gif" alt="Blastoise"></a>
 - User can update details of any item in the cart.
 
 >Use `npm run update <pokemon-id> <updated-pokemon-id>` to change current pokemon with different item.
@@ -40,18 +40,17 @@ npm run show OGrN
 npm run update OGrN "Bulbasaur"
 ```
 
-## Destroy 
+## Destroy <a href="https://pokemondb.net/pokedex/espeon"><img src="https://img.pokemondb.net/sprites/black-white/anim/normal/espeon.gif" alt="Espeon"></a>
 - User can delete specific item from the cart with unique ID.
 
 >Use `npm run destroy <pokemon-id>` to delete item from cart.
 ```
 npm run destroy OGrN
 ```
-## Getting Started
+## Getting Started <a href="https://pokemondb.net/pokedex/bulbasaur"><img src="https://img.pokemondb.net/sprites/black-white/anim/normal/bulbasaur.gif" alt="Bulbasaur"></a>
 
 1. Clone the repo to your local machine.
 2. Install by using `npm install`.
 3. Start the application with `npm start`.
 
 
-<a href="https://pokemondb.net/pokedex/bulbasaur"><img src="https://img.pokemondb.net/sprites/black-white/anim/normal/bulbasaur.gif" alt="Bulbasaur"></a>
