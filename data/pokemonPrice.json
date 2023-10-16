@@ -1,152 +1,252 @@
 [
-    {
-      "name": "Charmander",
-      "priceInCents": 25,
-      "description": "A fire-type Pokémon with a flame at the end of its tail.",
-      "rare": false
-    },
-    {
-      "name": "Squirtle",
-      "priceInCents": 22,
-      "description": "A water-type Pokémon with a turtle shell on its back.",
-      "rare": false
-    },
-    {
-      "name": "Machamp",
-      "priceInCents": 90,
-      "description": "A powerful fighting-type Pokémon with four muscular arms.",
-      "rare": false
-    },
-    {
-      "name": "Victreebel",
-      "priceInCents": 70,
-      "description": "A grass/poison-type Pokémon with large, toothy leaves.",
-      "rare": false
-    },
-    {
-      "name": "Raichu",
-      "priceInCents": 40,
-      "description": "An electric-type Pokémon and the evolved form of Pikachu.",
-      "rare": false
-    },
-    {
-      "name": "Nidoking",
-      "priceInCents": 90,
-      "description": "A powerful poison/ground-type Pokémon with a fearsome appearance.",
-      "rare": false
-    },
-    {
-      "name": "Golem",
-      "priceInCents": 100,
-      "description": "A rock/ground-type Pokémon with a hard shell.",
-      "rare": false
-    },
-    {
-      "name": "Mew",
-      "priceInCents": 200,
-      "description": "A mythical psychic-type Pokémon known for its cute appearance.",
-      "rare": true
-    },
-    {
-      "name": "Venusaur",
-      "priceInCents": 120,
-      "description": "The evolved form of Bulbasaur, a large, dinosaur-like Pokémon.",
-      "rare": false
-    },
-    {
-      "name": "Blastoise",
-      "priceInCents": 110,
-      "description": "The evolved form of Squirtle, a powerful water-type Pokémon with cannons on its back.",
-      "rare": false
-    },
-    {
-      "name": "Alakazam",
-      "priceInCents": 100,
-      "description": "A psychic-type Pokémon known for its high intelligence and spoons.",
-      "rare": false
-    },
-    {
-      "name": "Dragonite",
-      "priceInCents": 150,
-      "description": "A dragon/flying-type Pokémon with a friendly demeanor.",
-      "rare": false
-    },
-    {
-      "name": "Gengar",
-      "priceInCents": 80,
-      "description": "A ghost/poison-type Pokémon with a mischievous grin.",
-      "rare": false
-    },
-    {
-      "name": "Articuno",
-      "priceInCents": 140,
-      "description": "A legendary ice/flying-type bird Pokémon with icy plumage.",
-      "rare": true
-    },
-    {
-      "name": "Zapdos",
-      "priceInCents": 140,
-      "description": "A legendary electric/flying-type bird Pokémon with powerful electrical abilities.",
-      "rare": true
-    },
-    {
-      "name": "Moltres",
-      "priceInCents": 140,
-      "description": "A legendary fire/flying-type bird Pokémon with flames that never go out.",
-      "rare": true
-    },
-    {
-      "name": "Pikachu",
-      "priceInCents": 30,
-      "description": "An electric-type Pokémon and the mascot of the Pokémon franchise.",
-      "rare": false
-    },
-    {
-      "name": "Jigglypuff",
-      "priceInCents": 35,
-      "description": "A normal/fairy-type Pokémon known for its ability to put others to sleep by singing.",
-      "rare": false
-    },
-    {
-      "name": "Meowth",
-      "priceInCents": 38,
-      "description": "A normal-type Pokémon known for its coin-like charm and love for currency.",
-      "rare": false
-    },
-    {
-      "name": "Psyduck",
-      "priceInCents": 33,
-      "description": "A water-type Pokémon with a constant headache that triggers powerful psychic abilities.",
-      "rare": false
-    },
-    {
-      "name": "Growlithe",
-      "priceInCents": 45,
-      "description": "A fire-type Pokémon resembling a small, loyal dog.",
-      "rare": false
-    },
-    {
-      "name": "Abra",
-      "priceInCents": 42,
-      "description": "A psychic-type Pokémon with the ability to teleport away from danger.",
-      "rare": false
-    },
-    {
-      "name": "Tentacool",
-      "priceInCents": 25,
-      "description": "A water/poison-type Pokémon with tentacles that can be toxic.",
-      "rare": false
-    },
-    {
-      "name": "Geodude",
-      "priceInCents": 28,
-      "description": "A rock/ground-type Pokémon with a rocky appearance.",
-      "rare": false
-    },
-    {
-      "name": "Exeggutor",
-      "priceInCents": 85,
-      "description": "A grass/psychic-type Pokémon with a trio of heads.",
-      "rare": false
+  {
+    "name": "Charmander",
+    "priceInCents": 25,
+    "description": "A fire-type Pokémon with a flame at the end of its tail.",
+    "rare": false,
+    "set": {
+      "name": "Base Set",
+      "releaseDate": "1996-10-20"
     }
-  ]
+  },
+  {
+    "name": "Squirtle",
+    "priceInCents": 22,
+    "description": "A water-type Pokémon with a turtle shell on its back.",
+    "rare": false,
+    "set": {
+      "name": "Base Set",
+      "releaseDate": "1996-10-20"
+    }
+  },
+  {
+    "name": "Machamp",
+    "priceInCents": 90,
+    "description": "A powerful fighting-type Pokémon with four muscular arms.",
+    "rare": false,
+    "set": {
+      "name": "Base Set",
+      "releaseDate": "1996-10-20"
+    }
+  },
+  {
+    "name": "Victreebel",
+    "priceInCents": 70,
+    "description": "A grass/poison-type Pokémon with large, toothy leaves.",
+    "rare": false,
+    "set": {
+      "name": "Base Set",
+      "releaseDate": "1996-10-20"
+    }
+  },
+  {
+    "name": "Raichu",
+    "priceInCents": 40,
+    "description": "An electric-type Pokémon and the evolved form of Pikachu.",
+    "rare": false,
+    "set": {
+      "name": "Base Set",
+      "releaseDate": "1996-10-20"
+    }
+  },
+  {
+    "name": "Nidoking",
+    "priceInCents": 90,
+    "description": "A powerful poison/ground-type Pokémon with a fearsome appearance.",
+    "rare": false,
+    "set": {
+      "name": "Base Set",
+      "releaseDate": "1996-10-20"
+    }
+  },
+  {
+    "name": "Golem",
+    "priceInCents": 100,
+    "description": "A rock/ground-type Pokémon with a hard shell.",
+    "rare": false,
+    "set": {
+      "name": "Base Set",
+      "releaseDate": "1996-10-20"
+    }
+  },
+  {
+    "name": "Mew",
+    "priceInCents": 200,
+    "description": "A mythical psychic-type Pokémon known for its cute appearance.",
+    "rare": true,
+    "set": {
+      "name": "Mythical Collection",
+      "releaseDate": "2000-05-15"
+    }
+  },
+  {
+    "name": "Venusaur",
+    "priceInCents": 120,
+    "description": "The evolved form of Bulbasaur, a large, dinosaur-like Pokémon.",
+    "rare": false,
+    "set": {
+      "name": "Evolution Set",
+      "releaseDate": "2002-08-30"
+    }
+  },
+  {
+    "name": "Blastoise",
+    "priceInCents": 110,
+    "description": "The evolved form of Squirtle, a powerful water-type Pokémon with cannons on its back.",
+    "rare": false,
+    "set": {
+      "name": "Evolution Set",
+      "releaseDate": "2002-08-30"
+    }
+  },
+  {
+    "name": "Alakazam",
+    "priceInCents": 100,
+    "description": "A psychic-type Pokémon known for its high intelligence and spoons.",
+    "rare": false,
+    "set": {
+      "name": "Evolution Set",
+      "releaseDate": "2002-08-30"
+    }
+  },
+  {
+    "name": "Dragonite",
+    "priceInCents": 150,
+    "description": "A dragon/flying-type Pokémon with a friendly demeanor.",
+    "rare": false,
+    "set": {
+      "name": "Dragon Collection",
+      "releaseDate": "2005-12-10"
+    }
+  },
+  {
+    "name": "Gengar",
+    "priceInCents": 80,
+    "description": "A ghost/poison-type Pokémon with a mischievous grin.",
+    "rare": false,
+    "set": {
+      "name": "Spooky Set",
+      "releaseDate": "2008-10-31"
+    }
+  },
+  {
+    "name": "Articuno",
+    "priceInCents": 140,
+    "description": "A legendary ice/flying-type bird Pokémon with icy plumage.",
+    "rare": true,
+    "set": {
+      "name": "Legendary Birds",
+      "releaseDate": "2023-10-15"
+    }
+  },
+  {
+    "name": "Zapdos",
+    "priceInCents": 140,
+    "description": "A legendary electric/flying-type bird Pokémon with powerful electrical abilities.",
+    "rare": true,
+    "set": {
+      "name": "Legendary Birds",
+      "releaseDate": "2023-10-15"
+    }
+  },
+  {
+    "name": "Moltres",
+    "priceInCents": 140,
+    "description": "A legendary fire/flying-type bird Pokémon with flames that never go out.",
+    "rare": true,
+    "set": {
+      "name": "Legendary Birds",
+      "releaseDate": "2023-10-15"
+    }
+  },
+  {
+    "name": "Pikachu",
+    "priceInCents": 30,
+    "description": "An electric-type Pokémon and the mascot of the Pokémon franchise.",
+    "rare": false,
+    "set": {
+      "name": "Base Set",
+      "releaseDate": "1996-10-20"
+    }
+  },
+  {
+    "name": "Jigglypuff",
+    "priceInCents": 35,
+    "description": "A normal/fairy-type Pokémon known for its ability to put others to sleep by singing.",
+    "rare": false,
+    "set": {
+      "name": "Base Set",
+      "releaseDate": "1996-10-20"
+    }
+  },
+  {
+    "name": "Meowth",
+    "priceInCents": 38,
+    "description": "A normal-type Pokémon known for its coin-like charm and love for currency.",
+    "rare": false,
+    "set": {
+      "name": "Currency Collection",
+      "releaseDate": "2010-02-14"
+    }
+  },
+  {
+    "name": "Psyduck",
+    "priceInCents": 33,
+    "description": "A water-type Pokémon with a constant headache that triggers powerful psychic abilities.",
+    "rare": false,
+    "set": {
+      "name": "Headache Series",
+      "releaseDate": "2015-06-25"
+    }
+  },
+  {
+    "name": "Growlithe",
+    "priceInCents": 45,
+    "description": "A fire-type Pokémon resembling a small, loyal dog.",
+    "rare": false,
+    "set": {
+      "name": "Loyal Companions",
+      "releaseDate": "2018-04-02"
+    }
+  },
+  {
+    "name": "Abra",
+    "priceInCents": 42,
+    "description": "A psychic-type Pokémon with the ability to teleport away from danger.",
+    "rare": false,
+    "set": {
+      "name": "Teleportation Collection",
+      "releaseDate": "2021-09-30"
+    }
+  },
+  {
+    "name": "Tentacool",
+    "priceInCents": 25,
+    "description": "A water/poison-type Pokémon with tentacles that can be toxic.",
+    "rare": false,
+    "set": {
+      "name": "Toxic Waters",
+      "releaseDate": "2019-07-12"
+    }
+  },
+  {
+    "name": "Geodude",
+    "priceInCents": 28,
+    "description": "A rock/ground-type Pokémon with a rocky appearance.",
+    "rare": false,
+    "set": {
+      "name": "Rock Solid Collection",
+      "releaseDate": "2017-03-15"
+    }
+  },
+  {
+    "name": "Exeggutor",
+    "priceInCents": 85,
+    "description": "A grass/psychic-type Pokémon with a trio of heads.",
+    "rare": false,
+    "set": {
+      "name": "Three Heads Series",
+      "releaseDate": "2022-11-20"
+    }
+  }
+]

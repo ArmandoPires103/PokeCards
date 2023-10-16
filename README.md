@@ -1,2 +1,2 @@
-Pokémon Card Emporium
+# Pokémon Card Emporium
 Welcome to the Pokémon Card Emporium, your one-stop destination for collecting and managing your favorite Pokémon cards. This application offers features that allows you to create, view, update, and delete items in you're cart in order to find rare cards.

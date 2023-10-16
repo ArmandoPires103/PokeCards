@@ -29,6 +29,7 @@ function index(pokemonCards) {
 }
 
 function show(pokemonCards, pokemonId) {
+    
   const pokemon = pokemonCards.find((pokemon) => pokemon.id === pokemonId);
 
   if (pokemon) {
@@ -68,7 +69,7 @@ function update(pokemonCards, pokemonId, updatedPokemon) {
 
     return pokemonCards;
 }
-
+  
 
 
 module.exports = {

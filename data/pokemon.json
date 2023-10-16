@@ -19,5 +19,19 @@
     "priceInCents": 140,
     "description": "A legendary fire/flying-type bird Pokémon with flames that never go out.",
     "rare": true
+  },
+  {
+    "name": "Squirtle",
+    "id": "CX1E",
+    "priceInCents": 22,
+    "description": "A water-type Pokémon with a turtle shell on its back.",
+    "rare": false
+  },
+  {
+    "name": "Machamp",
+    "id": "JjO5",
+    "priceInCents": 90,
+    "description": "A powerful fighting-type Pokémon with four muscular arms.",
+    "rare": false
   }
 ]
