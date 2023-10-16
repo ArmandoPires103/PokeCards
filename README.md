@@ -3,6 +3,13 @@ Welcome to the Pokémon Card Emporium, your one-stop destination for collecting 
 
 ![Jigglypuff](http://img.pokemondb.net/sprites/black-white/anim/normal/jigglypuff.gif) ![Gengar](http://img.pokemondb.net/sprites/black-white/anim/normal/gengar.gif) ![Electrode](http://img.pokemondb.net/sprites/black-white/anim/normal/electrode.gif) ![Eevee](http://img.pokemondb.net/sprites/black-white/anim/normal/eevee.gif) ![Snorlax](http://img.pokemondb.net/sprites/black-white/anim/normal/snorlax.gif) <a href="https://pokemondb.net/pokedex/pikachu"><img src="https://img.pokemondb.net/sprites/black-white/anim/normal/pikachu-f.gif" alt="Pikachu"></a>
 
+## Getting Started <a href="https://pokemondb.net/pokedex/bulbasaur"><img src="https://img.pokemondb.net/sprites/black-white/anim/normal/bulbasaur.gif" alt="Bulbasaur"></a>
+
+1. Clone the repo to your local machine.
+2. Install by using `npm install`.
+3. Start the application with `npm start`.
+
+
 # Features
 
 ## Create <a href="https://pokemondb.net/pokedex/charmander"><img src="https://img.pokemondb.net/sprites/black-white/anim/normal/charmander.gif" alt="Charmander"></a>
@@ -52,10 +59,5 @@ npm run destroy OGrN
 ```
 npm run destroy all
 ```
-## Getting Started <a href="https://pokemondb.net/pokedex/bulbasaur"><img src="https://img.pokemondb.net/sprites/black-white/anim/normal/bulbasaur.gif" alt="Bulbasaur"></a>
-
-1. Clone the repo to your local machine.
-2. Install by using `npm install`.
-3. Start the application with `npm start`.
 
 
