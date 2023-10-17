@@ -1,7 +1,7 @@
 //IMPORTS
 const { readJSONFile, writeJSONFile } = require('./src/helpers');
 const pokemonCards = readJSONFile('./data', 'pokemon.json');
-const { create, index, show, update, destroy, searchBySet } = require('./src/pokemonController');
+const { create, index, show, update, destroy } = require('./src/pokemonController');
 // REASSIGNS CONSOLE.LOG TO BE CALLED INFORM.
 const inform = console.log;
 // FUNCTION RUN EXECUTES DIFFERENT ACTIONS BASED ON COMMAND LINE.
@@ -34,8 +34,7 @@ function run() {
       updatedPokemonCards = destroy(pokemonCards, pokemon);
       writeToJSONFile = true;
       break;
-      
-    default:
+      default:
       inform('There was an error.');
   }
   if (writeToJSONFile) {

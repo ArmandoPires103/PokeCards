@@ -1,23 +1,23 @@
 [
   {
+    "name": "Mew",
+    "id": "-DlH",
+    "priceInCents": 200,
+    "description": "A mythical psychic-type Pokémon known for its cute appearance.",
+    "rare": true
+  },
+  {
     "name": "Pikachu",
-    "id": "M0wB",
+    "id": "U2Wz",
     "priceInCents": 30,
     "description": "An electric-type Pokémon and the mascot of the Pokémon franchise.",
     "rare": false
   },
   {
     "name": "Machamp",
-    "id": "SnGK",
+    "id": "zRvh",
     "priceInCents": 90,
     "description": "A powerful fighting-type Pokémon with four muscular arms.",
-    "rare": false
-  },
-  {
-    "name": "Squirtle",
-    "id": "KeZ5",
-    "priceInCents": 22,
-    "description": "A water-type Pokémon with a turtle shell on its back.",
     "rare": false
   }
 ]

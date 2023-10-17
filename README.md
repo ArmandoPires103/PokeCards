@@ -62,3 +62,6 @@ npm run destroy OGrN
 npm run destroy all
 ```
 
+## Contributing
+
+If you have and ideas for improvements or want to report issues, please open a GitHub issue and submit a pull request. Thank you and enjoy the pokeCard Application.
