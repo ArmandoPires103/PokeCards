@@ -5,6 +5,8 @@ Welcome to the Pokémon Card Emporium, your one-stop destination for collecting 
 
 ## Getting Started <a href="https://pokemondb.net/pokedex/bulbasaur"><img src="https://img.pokemondb.net/sprites/black-white/anim/normal/bulbasaur.gif" alt="Bulbasaur"></a>
 
+To dive into the world of efficient inventory management, follow these simple steps to set up your development environment and unleash the power of this application.
+
 1. Clone the repo to your local machine.
 2. Install by using `npm install`.
 3. Start the application with `npm start`.
@@ -59,5 +61,4 @@ npm run destroy OGrN
 ```
 npm run destroy all
 ```
-
 

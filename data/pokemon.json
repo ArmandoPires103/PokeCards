@@ -12,5 +12,12 @@
     "priceInCents": 90,
     "description": "A powerful fighting-type Pokémon with four muscular arms.",
     "rare": false
+  },
+  {
+    "name": "Squirtle",
+    "id": "KeZ5",
+    "priceInCents": 22,
+    "description": "A water-type Pokémon with a turtle shell on its back.",
+    "rare": false
   }
 ]
