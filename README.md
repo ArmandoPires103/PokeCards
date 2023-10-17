@@ -65,3 +65,6 @@ npm run destroy all
 ## Contributing
 
 If you have any ideas for improvement or want to report issues, please open a GitHub issue and submit a pull request. Thank you and enjoy the pokeCard Application.
+
+## Development Dependencies 
+- @nanoid-js/nanoid (^3.3.6)
