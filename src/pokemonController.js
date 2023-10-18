@@ -79,7 +79,7 @@ function update(pokemonCards, pokemonId, updatedPokemon) {
 
     return pokemonCards;
 }
-  
+// MAKE A ARROWFUNCTION TO LOOKINTO POKEMON DATA AND RETURN ALL ITEMS IN CART IN A NEW ARRAY
 const getAll = (pokemonCard) => {
     return pokemonCard.map((card) => card)
 }

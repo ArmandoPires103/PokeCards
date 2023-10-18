@@ -61,7 +61,11 @@ npm run destroy OGrN
 ```
 npm run destroy all
 ```
+## getAll<a href="https://pokemondb.net/pokedex/venusaur"><img src="https://img.pokemondb.net/sprites/black-white/anim/normal/venusaur-f.gif" alt="Venusaur"></a>
+- User can get full cart details.
+- Details will show full name,cost,description and id.
 
+>Use `npm run all` to show every item in cart.
 ## Contributing
 
 If you have any ideas for improvement or want to report issues, please open a GitHub issue and submit a pull request. Thank you and enjoy the pokeCard Application.
