@@ -66,6 +66,9 @@ npm run destroy all
 - Details will show full name,cost,description and id.
 
 >Use `npm run all` to show every item in cart.
+```
+npm run all
+```
 ## Contributing
 
 If you have any ideas for improvement or want to report issues, please open a GitHub issue and submit a pull request. Thank you and enjoy the pokeCard Application.
