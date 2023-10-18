@@ -61,7 +61,7 @@ npm run destroy OGrN
 ```
 npm run destroy all
 ```
-## getAll<a href="https://pokemondb.net/pokedex/venusaur"><img src="https://img.pokemondb.net/sprites/black-white/anim/normal/venusaur-f.gif" alt="Venusaur"></a>
+## getAllItems<a href="https://pokemondb.net/pokedex/venusaur"><img src="https://img.pokemondb.net/sprites/black-white/anim/normal/venusaur-f.gif" alt="Venusaur"></a>
 - User can get full cart details.
 - Details will show full name,cost,description and id.
 
