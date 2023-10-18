@@ -80,6 +80,9 @@ function update(pokemonCards, pokemonId, updatedPokemon) {
     return pokemonCards;
 }
   
+const getAll = (pokemonCard) => {
+    return pokemonCard.map((card) => card)
+}
 
 
 module.exports = {
@@ -88,4 +91,5 @@ module.exports = {
   show,
   destroy,
   update,
+  getAll
 };
