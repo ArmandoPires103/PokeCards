@@ -91,5 +91,5 @@ module.exports = {
   show,
   destroy,
   update,
-  getAllItemss
+  getAllItems
 };
